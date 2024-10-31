@@ -68,11 +68,12 @@ a:hover {
 	border-radius: 50%;
 }
 
-.brn-red {
+.btn-red {
 	background-color: rgb(200,0,0);
 	color: white;
-	padding: 15px 20px
+	padding: 15px 20px;
 	border-radius: 10px;
+	font-weight: bold;
 }
 .btn-red:hover {
 	background-color: rgb(120,0,0)
